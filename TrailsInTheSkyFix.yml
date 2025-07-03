@@ -14,7 +14,7 @@ fixes:
   tileRenderDistance:
     enable: true
 
-#Available features
+# Available features
 features:
 
   # If enabled ingame camera will be scaled
